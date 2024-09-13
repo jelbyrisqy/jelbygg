@@ -31,6 +31,7 @@ Jika Dirimu Pernah Menyesalinya Lantas Kenapa Kamu Mengulanginnya
 
 - [Donate](https://saweria.co/JelbyR)
 - [Discord](https://discordapp.com/users/jelby_)
+- [IG](https://www.instagram.com/jelby_0/)
 
 ## <div align="center">⚡ Information </div>
 
