@@ -24,7 +24,7 @@ Jika Dirimu Pernah Menyesalinya Lantas Kenapa Kamu Mengulanginnya
 
  ✨ My Oshi :
    
-  - Mutiara Azzahra   
+  - Mutiara Azzahra  
 
 
 **Information:**
