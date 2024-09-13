@@ -10,7 +10,7 @@ Jika Dirimu Pernah Menyesalinya Lantas Kenapa Kamu Mengulanginnya
 <p align="center">
   <a href="https://github.com/jelbyrisqy"><img title="Si Paling" src="https://img.shields.io/badge/Author-jelbyrisqy-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://wa.me/"> No Enc? </a>
+  <a href="https://discordapp.com/users/jelby_"> Contact Me? </a>
 </h4>
 </p>
 
