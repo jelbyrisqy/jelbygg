@@ -11,7 +11,6 @@ Jika Dirimu Pernah Menyesalinya Lantas Kenapa Kamu Mengulanginnya
   <a href="https://github.com/jelbyrisqy"><img title="Si Paling" src="https://img.shields.io/badge/Author-jelbyrisqy-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
     <div class="social-icons">
-  <a href="https://discordapp.com/users/jelby_"><i title="Contact Me?"></i></a>
 </h4>
 </p>
 
@@ -31,6 +30,7 @@ Jika Dirimu Pernah Menyesalinya Lantas Kenapa Kamu Mengulanginnya
 **Information:**
 
 - [Donate](https://saweria.co/JelbyR)
+- [Discord](https://discordapp.com/users/jelby_)
 
 ## <div align="center">⚡ Information </div>
 
